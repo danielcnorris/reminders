@@ -1,1 +1,4 @@
-REM 2016 Aug 20 MSG Test
+INCLUDE holidays.rem
+
+REM 2016 Aug 21 MSG This is a test
+REM 2016 Aug 21 MSG This is another thing I have to do
